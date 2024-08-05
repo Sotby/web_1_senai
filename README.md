@@ -1,2 +1,2 @@
-# wep_1_senai
+# web_1_senai
 Repositório WEB SENAI 2024 turma A
